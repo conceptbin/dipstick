@@ -1,5 +1,5 @@
 # dipstick
-A simple Twitter search and analytics report. Search for a keyword of your choice and Dipstick will output a report to an Excel spreadsheet.
+A simple Twitter search and analytics report, in a self-contained notebook. Search for a keyword of your choice and Dipstick will output a report to an Excel spreadsheet.
 
 Installation: Open the notebook file above, then click on "Open in Google Colab".
 
